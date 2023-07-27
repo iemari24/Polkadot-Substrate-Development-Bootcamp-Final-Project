@@ -1,7 +1,7 @@
 fn main()
 {
-    let string1 = String::from("emre");
-    let string2 = String::from("yilmazcan");
+    let string1 = String::from("mauro");
+    let string2 = String::from("icardi");
     
     let concatenated_string: String = concatenate_strings(string1, string2);
     println!("{}", concatenated_string);
